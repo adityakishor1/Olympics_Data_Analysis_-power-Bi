@@ -24,7 +24,8 @@ The project is divided into the following main Power BI reports:
 
 Feel free to explore the repository, download the reports, and interact with the data!
 
-![Overview]("C:\Users\adiki\OneDrive\Pictures\Screenshots\Screenshot 2024-09-21 183904.png")
+![Screenshot](images/Screenshot-2024-09-21-183904.png)
+
 
 
 --- 

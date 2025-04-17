@@ -26,7 +26,8 @@ The project is divided into the following main Power BI reports:
 3. **Country-wise Analysis**
 4. **Historical Trends**
 
-Feel free to explore the repository, download the reports, and interact with the data!
+
+Feel free to explore the repository and interact with the data!
 
 
 ---

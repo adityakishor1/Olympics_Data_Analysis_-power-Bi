@@ -1,6 +1,6 @@
 # Olympics_Data_Analysis_-power-Bi
 
-## Dashboard View:
+## Dashboard View:-
 
 ![Overview](https://github.com/adityakishor1/Olympics_Data_Analysis_-power-Bi/blob/bb9bf03676fc7669e9be242dd20448cbc399ad0b/overview.png)
 

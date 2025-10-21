@@ -13,6 +13,7 @@ Demo Video Link:- https://www.linkedin.com/feed/update/urn:li:activity:724005663
 🏅 **Olympics Data Analysis - Power BI**  
 This project involves an in-depth analysis of Olympic Games data using Power BI. The goal is to explore historical trends, country performance, and athlete statistics through interactive visualizations and insightful dashboards. Key sections covered include:
 
+
 📜 **History**: An overview of the Olympic Games' timeline, key milestones, and notable events.  
 🌍 **Country Analysis**: Breakdown of medals and participation by country, along with insights into top-performing nations.  
 🏃‍♂️ **Athlete Analysis**: A detailed analysis of athletes' performances, highlighting record holders and trends across different sports.
